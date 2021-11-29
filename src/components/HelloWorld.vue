@@ -14,7 +14,7 @@
         Vite Documentation
       </a>
       |
-      <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Documentation</a>
+      <a href="https://vuejs.org/v2/guide/" target="_blank">Vue 2 Documentation</a>
     </p>
 
     <p>
